@@ -5,5 +5,5 @@ jobs:
   build:
     name: Laravel Build
     runs-on: ubuntu-latest
-    stpes:
+    steps:
       - uses: action/checkout@v2
